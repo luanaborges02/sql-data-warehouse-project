@@ -39,7 +39,7 @@ This Project is licensed under the (MIT License)(License). You are free to use a
 
 ## About me
 
-Hi there! this is **Luana Borges**, I an english to portuguese (PTBR/EN) interpreter and data analytics student. 
+Hi there! this is **Luana Borges**, I am english to portuguese (EN/PTBR) interpreter and data analytics student. 
 
 
 -**Regards!**
